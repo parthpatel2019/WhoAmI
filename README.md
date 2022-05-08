@@ -14,3 +14,5 @@ Week 3 - Monkey/Banana - https://youtu.be/qDHe07NN0lE
 Week 4 - Drawing Shapes - https://youtu.be/jSjBSg_f-yc
 
 Week 5 - Repeat Until - https://youtu.be/BjzN06dg428
+
+Week 6 - If-Else Conditions - https://youtu.be/ItBeLYIAjfc
