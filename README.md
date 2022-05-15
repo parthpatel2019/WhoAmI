@@ -16,3 +16,5 @@ Week 4 - Drawing Shapes - https://youtu.be/jSjBSg_f-yc
 Week 5 - Repeat Until - https://youtu.be/BjzN06dg428
 
 Week 6 - If-Else Conditions - https://youtu.be/ItBeLYIAjfc
+
+Week 7 - Nested If/Else - https://youtu.be/8fblxPhDj54
