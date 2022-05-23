@@ -18,3 +18,5 @@ Week 5 - Repeat Until - https://youtu.be/BjzN06dg428
 Week 6 - If-Else Conditions - https://youtu.be/ItBeLYIAjfc
 
 Week 7 - Nested If/Else - https://youtu.be/8fblxPhDj54
+
+Week 8 - Compounded Conditionals - https://youtu.be/lAep_N200hs
