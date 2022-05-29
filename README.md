@@ -20,3 +20,5 @@ Week 6 - If-Else Conditions - https://youtu.be/ItBeLYIAjfc
 Week 7 - Nested If/Else - https://youtu.be/8fblxPhDj54
 
 Week 8 - Compounded Conditionals - https://youtu.be/lAep_N200hs
+
+Week 9 - Functions/Painting - https://youtu.be/ilW27gO-R4Y
